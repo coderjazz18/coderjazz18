@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @coderjazz18
 - 👀 I’m interested in reading!
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects?
 - 📫 How to reach me - via email - coderjazz@gmail.com
 
 <!---
